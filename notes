@@ -1,0 +1,61 @@
+Lesson 1:
+  Choose High resolution
+    captions on
+  learn to search
+    or create a question
+      you can add images and stuff, yay!
+      self formating code
+  where to find source code
+  qa
+  
+Lesson 2:
+  download and install the right version of the JDK and IntelliJ IDEA
+    new versions are released very often!
+    get the most recent.
+    Java 10 doesnt have long term support, Java 11 will have long term support.
+    for 32bit you need Java 8, recent versions do not support 32bit, thanks Oracle!
+    The course will work with all versions of java, yay
+  talks about the different upcoming videos, lesson 3 is about windows, and then linux or mac
+
+Lesson 3:
+  shows where to download the latest jdk 
+  talks about how to find out what version (32 or 64 bit) of windows you are running.
+  installation
+
+Lesson 4:
+  where to download intellij
+  difference between community and pro
+  intelliJ installation
+    64bit version
+    associate with java, groovy and .kt
+    
+    start intellij
+    settings, default project structure, find sdk folder
+    configure -> editor
+      general
+        auto import -> Addd unambigious imports on the fly
+                      optimize imports on the fly
+        code folding
+          remove checkbox for closures,
+          genereic constructors and method paramethers.
+
+Lesson 5:
+  free 90 days trial for intelliJ ultimate Edition
+ 
+Lesson 6 - 11: Mac and linux versions of Lesson 3-5
+
+Section 3:
+
+Lesson 12: Introduction
+
+Lesson 13: hello world
+
+Lesson 14: interface
+
+  
+  
+  
+    
+  
+    
+    
