@@ -96,7 +96,14 @@ Lesson 17: Integer data types
   had to delete all of the above to do a challenge: 
     
 
-  
+  lesson 18:
+    float double
+      numbers with decimal point
+        float is single precision
+          double is double precision
+            double got twice as much data as the float
+              double is faster one modern computers than float, double is used more often and java defaults to double, so use double, its more precise too :D:D:D:D
+              
   
   
     
