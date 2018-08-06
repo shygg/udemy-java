@@ -1,0 +1,29 @@
+public class Main {
+
+    public static void main(String[] args) {
+        //width of an int is 32, 4 bytes
+        int myIntValue = 5 / 2;
+        //width of a float is 32
+        float myFloatValue = 5f / 3f;
+        //width of a double is 64
+        // double are actually faster on modern computers, more precise, inbuilt functions in java usually use a double
+        // only going to use doubles in the
+        double myDoubleValue = 5d / 3d;
+
+        System.out.println("myIntValue = " + myIntValue);
+        System.out.println("myFloatValue = "+ myFloatValue);
+        System.out.println("myDoubleValue = " + myDoubleValue);
+
+        //Convert a given number of pounds to kilograms
+        // 1. create a variable, store the number of pounds
+        // 2. Calculate the number of kilograms for the number above and store in a variable
+        // 3. Print out the result.
+
+        // notes: 1 pound is equal to 0.4535937 kilograms, cool!
+
+        double myPoundValue = 4.33d;
+        double poundInKG = 0.4535937d;
+        double myKGValue = myPoundValue * poundInKG;
+        System.out.println(myKGValue);
+    }
+}
