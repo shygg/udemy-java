@@ -103,7 +103,17 @@ Lesson 17: Integer data types
           double is double precision
             double got twice as much data as the float
               double is faster one modern computers than float, double is used more often and java defaults to double, so use double, its more precise too :D:D:D:D
-              
+  Lesson 19: 
+    char boolean
+      char got a width of 16 bits, so 2 bytes
+      unicode-table.com/en/#basic-latin
+        only 1 character can be stored in a char variable
+          char myChar = '\u00A9'; will show a copyright symbol! wow!
+          
+    boolean
+      boolean myBoolean, true or false, 
+      
+    these are all called "primitive types" (int, byte, short,long, float, double, char, boolean)
   
   
     
